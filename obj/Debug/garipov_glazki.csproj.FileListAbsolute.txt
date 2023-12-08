@@ -1,0 +1,92 @@
+D:\3 курс\ИСП-3121\Гарипов\bin\Debug\garipov_glazki.exe.config
+D:\3 курс\ИСП-3121\Гарипов\bin\Debug\garipov_glazki.exe
+D:\3 курс\ИСП-3121\Гарипов\bin\Debug\garipov_glazki.pdb
+D:\3 курс\ИСП-3121\Гарипов\bin\Debug\EntityFramework.dll
+D:\3 курс\ИСП-3121\Гарипов\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\ИСП-3121\Гарипов\bin\Debug\EntityFramework.xml
+D:\3 курс\ИСП-3121\Гарипов\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\ИСП-3121\Гарипов\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\ИСП-3121\Гарипов\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\garipov_glazki.csproj.AssemblyReference.cache
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\AddEditPage.g.cs
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\ServicePage.g.cs
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\App.g.cs
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\garipov_glazki_Content.g.cs
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\garipov_glazki_MarkupCompile.cache
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\garipov_glazki_MarkupCompile.lref
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\App.baml
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\AddEditPage.baml
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\ServicePage.baml
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\garipov_glazki.g.resources
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\garipov_glazki.Properties.Resources.resources
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\garipov_glazki.csproj.GenerateResource.cache
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\garipov_glazki.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\garipov_glazki.csproj.CopyComplete
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\garipov_glazki.exe
+D:\3 курс\ИСП-3121\Гарипов\obj\Debug\garipov_glazki.pdb
+C:\Users\шома\Desktop\Гарипов\bin\Debug\garipov_glazki.exe.config
+C:\Users\шома\Desktop\Гарипов\bin\Debug\garipov_glazki.exe
+C:\Users\шома\Desktop\Гарипов\bin\Debug\garipov_glazki.pdb
+C:\Users\шома\Desktop\Гарипов\bin\Debug\EntityFramework.dll
+C:\Users\шома\Desktop\Гарипов\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\шома\Desktop\Гарипов\bin\Debug\EntityFramework.xml
+C:\Users\шома\Desktop\Гарипов\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\шома\Desktop\Гарипов\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\шома\Desktop\Гарипов\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\шома\Desktop\Гарипов\obj\Debug\garipov_glazki.csproj.AssemblyReference.cache
+C:\Users\шома\Desktop\Гарипов\obj\Debug\AddEditPage.g.cs
+C:\Users\шома\Desktop\Гарипов\obj\Debug\MainWindow.g.cs
+C:\Users\шома\Desktop\Гарипов\obj\Debug\ServicePage.g.cs
+C:\Users\шома\Desktop\Гарипов\obj\Debug\App.g.cs
+C:\Users\шома\Desktop\Гарипов\obj\Debug\garipov_glazki_Content.g.cs
+C:\Users\шома\Desktop\Гарипов\obj\Debug\garipov_glazki_MarkupCompile.cache
+C:\Users\шома\Desktop\Гарипов\obj\Debug\garipov_glazki_MarkupCompile.lref
+C:\Users\шома\Desktop\Гарипов\obj\Debug\App.baml
+C:\Users\шома\Desktop\Гарипов\obj\Debug\AddEditPage.baml
+C:\Users\шома\Desktop\Гарипов\obj\Debug\MainWindow.baml
+C:\Users\шома\Desktop\Гарипов\obj\Debug\ServicePage.baml
+C:\Users\шома\Desktop\Гарипов\obj\Debug\garipov_glazki.g.resources
+C:\Users\шома\Desktop\Гарипов\obj\Debug\garipov_glazki.Properties.Resources.resources
+C:\Users\шома\Desktop\Гарипов\obj\Debug\garipov_glazki.csproj.GenerateResource.cache
+C:\Users\шома\Desktop\Гарипов\obj\Debug\garipov_glazki.csproj.CoreCompileInputs.cache
+C:\Users\шома\Desktop\Гарипов\obj\Debug\garipov_glazki.csproj.CopyComplete
+C:\Users\шома\Desktop\Гарипов\obj\Debug\garipov_glazki.exe
+C:\Users\шома\Desktop\Гарипов\obj\Debug\garipov_glazki.pdb
+C:\Users\шома\Desktop\Гарипов\obj\Debug\PRW.g.cs
+C:\Users\шома\Desktop\Гарипов\obj\Debug\PRW.baml
+D:\Гарипов\bin\Debug\garipov_glazki.exe.config
+D:\Гарипов\bin\Debug\garipov_glazki.exe
+D:\Гарипов\bin\Debug\garipov_glazki.pdb
+D:\Гарипов\bin\Debug\EntityFramework.dll
+D:\Гарипов\bin\Debug\EntityFramework.SqlServer.dll
+D:\Гарипов\bin\Debug\EntityFramework.xml
+D:\Гарипов\bin\Debug\EntityFramework.SqlServer.xml
+D:\Гарипов\bin\Debug\ru\EntityFramework.resources.dll
+D:\Гарипов\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Гарипов\obj\Debug\garipov_glazki.csproj.AssemblyReference.cache
+D:\Гарипов\obj\Debug\AddEditPage.g.cs
+D:\Гарипов\obj\Debug\MainWindow.g.cs
+D:\Гарипов\obj\Debug\PRW.g.cs
+D:\Гарипов\obj\Debug\ServicePage.g.cs
+D:\Гарипов\obj\Debug\App.g.cs
+D:\Гарипов\obj\Debug\garipov_glazki_Content.g.cs
+D:\Гарипов\obj\Debug\garipov_glazki_MarkupCompile.cache
+D:\Гарипов\obj\Debug\garipov_glazki_MarkupCompile.lref
+D:\Гарипов\obj\Debug\App.baml
+D:\Гарипов\obj\Debug\AddEditPage.baml
+D:\Гарипов\obj\Debug\MainWindow.baml
+D:\Гарипов\obj\Debug\PRW.baml
+D:\Гарипов\obj\Debug\ServicePage.baml
+D:\Гарипов\obj\Debug\garipov_glazki.g.resources
+D:\Гарипов\obj\Debug\garipov_glazki.Properties.Resources.resources
+D:\Гарипов\obj\Debug\garipov_glazki.csproj.GenerateResource.cache
+D:\Гарипов\obj\Debug\garipov_glazki.csproj.CoreCompileInputs.cache
+D:\Гарипов\obj\Debug\garipov_glazki.csproj.CopyComplete
+D:\Гарипов\obj\Debug\garipov_glazki.exe
+D:\Гарипов\obj\Debug\garipov_glazki.pdb
+D:\Гарипов\obj\Debug\AddSalePage.g.cs
+D:\Гарипов\obj\Debug\SalePage.g.cs
+D:\Гарипов\obj\Debug\AddSalePage.baml
+D:\Гарипов\obj\Debug\SalePage.baml
